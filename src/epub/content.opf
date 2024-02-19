@@ -31,43 +31,45 @@
 		<dc:subject id="subject-1">France -- Social life and customs -- 19th century -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008115112</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young writer’s ruinous affair leads him down a path of suffering, obsession, and finally redemption.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Despite a troubled youth and harrowing experiences in the Franco-Prussian war, Jean Mintié is on the rise in Paris. He’s mingling in artistic circles and has modest success with his first writings.&lt;/p&gt;
+			&lt;p&gt;That all changes when he meets socialite Julie Roux. Feeling both intrigued and unsettled by her extravagance and outspokenness, he can’t shake her from his thoughts. Their ensuing affair, initially captivating, takes a turn as other aspects of Julie’s personality come to the fore …&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Calvary&lt;/i&gt;, also commonly referred to by its French title &lt;i lang="fr"&gt;Le Calvaire&lt;/i&gt;, is a tale of ruin, struggle and redemption. It marked &lt;a href="https://standardebooks.org/ebooks/octave-mirbeau"&gt;Octave Mirbeau’s&lt;/a&gt; debut under his own name, after he anonymously penned no less than ten works for others. He didn’t have to look far for inspiration: the novel’s portrayal of Jean Mintie and Julie Roux’s relationship parallel Mirbeau’s own disastrous love affair with the notorious Judith Vinmer. He would later repeat this exercise in “writing as trauma therapy” in his third book &lt;i&gt;Sebastien Roch&lt;/i&gt;, a novel about sexual abuse at a Jesuit school for boys.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48773</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/calvaryanovel00mirbiala/</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Calvary</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/octave-mirbeau_calvary_louis-rich</meta>
 		<dc:creator id="author">Octave Mirbeau</dc:creator>
 		<meta property="file-as" refines="#author">Mirbeau, Octave</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Octave Henri Marie Mirbeau</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Octave_Mirbeau</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50033504</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Louis Rich</dc:contributor>
 		<meta property="file-as" refines="#translator">Rich, Louis</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Louis_Rich</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Franciszek Żmurko</dc:contributor>
+		<meta property="file-as" refines="#artist">Żmurko, Franciszek</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Franciszek_%C5%BBmurko</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Dagny</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Dagny</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Laura Natal</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Natal, Laura</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">D’Hooghe, Marc</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Bob Reus</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Reus, Bob</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.bobre.us</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
