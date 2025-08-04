@@ -43,7 +43,7 @@
 		<dc:source>https://archive.org/details/calvaryanovel00mirbiala</dc:source>
 		<meta property="se:word-count">80749</meta>
 		<meta property="se:reading-ease.flesch">71.14</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Calvary</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Le_Calvaire</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/octave-mirbeau_calvary_louis-rich</meta>
 		<dc:creator id="author">Octave Mirbeau</dc:creator>
 		<meta property="file-as" refines="#author">Mirbeau, Octave</meta>
