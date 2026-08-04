@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008115112</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young writer’s ruinous affair leads him down a path of suffering, obsession, and finally redemption.</dc:abstract>
+		<meta property="schema:abstract">A young writer’s ruinous affair leads him down a path of suffering, obsession, and finally redemption.</meta>
 		<dc:description>
 			&lt;p&gt;Despite a troubled youth and harrowing experiences in the Franco-Prussian war, Jean Mintié is on the rise in Paris. He mingles in artistic circles and has modest success with his first writings.&lt;/p&gt;
 			&lt;p&gt;That all changes when he meets socialite Julie Roux. Feeling both intrigued and unsettled by her extravagance and outspokenness, he can’t shake her from his thoughts. Their ensuing affair, initially captivating, takes a sharp turn as other aspects of Julie’s personality come to the fore.&lt;/p&gt;
