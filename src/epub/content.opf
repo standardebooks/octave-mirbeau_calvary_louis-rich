@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Calvary</dc:title>
 		<meta property="file-as" refines="#title">Calvary</meta>
-		<dc:subject id="subject-1">France -- Social life and customs -- 19th century -- Fiction</dc:subject>
+		<dc:subject id="subject-1">France--Social life and customs--19th century--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008115112</meta>
 		<meta property="schema:genre">Fiction</meta>
